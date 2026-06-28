@@ -1,13 +1,24 @@
-# Hi 👋, I'm <YOUR NAME>  
-### 🔭 I build things with JavaScript, React, and Node.js
+<h1 align="center">Hi 👋, I'm Jasia Faruk Saba</h1>
+<h3 align="center">A passionate MERN Stack Developer dedicated to building scalable and responsive web applications</h3>
 
----
+- 🔭 I’m currently working on [Full-Stack Web Development Projects](https://github.com/jasiafaruksaba)
 
-## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+- 🌱 I’m currently learning **Advanced Backend Architectures & Next.js**
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/jasiafaruksaba](https://github.com/jasiafaruksaba)
+
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, and JavaScript**
+
+- 📫 How to reach me **sabajasiafaruk@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ipv6NVxMtAuhGgprrMipJQVwrUb2rRfY/view?usp=sharing](https://drive.google.com/file/d/1ipv6NVxMtAuhGgprrMipJQVwrUb2rRfY/view?usp=sharing)
+
+- ⚡ Fun fact **I love turning tea into clean, working full-stack code!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jasia-faruk-saba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasia-faruk-saba" height="30" width="40" /></a>
+</p>
 
 ## 🛠️ Tech Stack  
 
@@ -27,15 +38,6 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
 
 ---
 
