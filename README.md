@@ -47,7 +47,7 @@
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasiafaruksaba&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasiafaruksaba&layout=compact&theme=default) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasiafaruksaba&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasiafaruksaba&layout=compact&theme=default) | ![Profile views](https://komarev.com/ghpvc/?username=jasiafaruksaba&style=flat-square)
 
 ---
 
