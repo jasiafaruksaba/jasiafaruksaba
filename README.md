@@ -39,7 +39,7 @@
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jasia-faruk-saba/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](sabajasiafaruk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sabajasiafaruk@gmail.com)
 
 ---
 
@@ -52,5 +52,3 @@
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=jasiafaruksaba&style=flat-square)
-
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
